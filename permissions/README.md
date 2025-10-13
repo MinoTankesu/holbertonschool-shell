@@ -1,0 +1,1 @@
+Ici, vous avez les cripts sur les permissions.
