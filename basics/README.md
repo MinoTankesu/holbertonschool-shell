@@ -9,41 +9,45 @@
 > pwd
 
 - 1-listit
-> #!/bin/bash
-ls
+> #!/bin/bash</br>
+> ls
 
 - 2-bring_me_home
-> #!/bin/bash
-cd
+> #!/bin/bash</br>
+> cd
 
 - 3-listfiles
-> #!/bin/bash
-ls -l
+> #!/bin/bash</br>
+> ls -l
 
 - 4-listmorefiles
-> #!/bin/bash
-ls -l -a
+> #!/bin/bash</br>
+> ls -l -a
 
 - 5-listfilesdigitonly
-> #!/bin/bash
-ls -l -a -n
+> #!/bin/bash</br>
+> ls -l -a -n
 
 - 6-firstdirectory
-> #!/bin/bash
-mkdir /tmp/my_first_directory
+> #!/bin/bash</br>
+> mkdir /tmp/my_first_directory
 
 - 7-movethatfile
-> #!/bin/bash
-mv /tmp/betty /tmp/my_first_directory
+> #!/bin/bash</br>
+> mv /tmp/betty /tmp/my_first_directory
 
 - 8-firstdelete
-> #!/bin/bash
-rm /tmp/my_first_directory/betty
+> #!/bin/bash</br>
+> rm /tmp/my_first_directory/betty
 
 - 9-firstdirdeletion
-> #!/bin/bash
-rmdir /tmp/my_first_directory
+> #!/bin/bash</br>
+> rmdir /tmp/my_first_directory
 
 - 10-back
-> #!/bin/bash
-cd -
+> #!/bin/bash</br>
+> cd -
+
+- 11-lists
+> #!/bin/bash</br>
+> ls -la . .. /boot
