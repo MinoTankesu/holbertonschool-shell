@@ -51,3 +51,27 @@
 - 11-lists
 > #!/bin/bash</br>
 > ls -la . .. /boot
+
+- 12-file_type
+> #!/bin/bash</br>
+> file /tmp/iamafile
+
+- 13-symbolic_link
+> #!/bin/bash</br>
+> ln -s /bin/ls __ls__
+
+- 14-copy_html
+> #!/bin/bash</br>
+> cp ./*.html ..
+
+- 15-lets_move
+> #!/bin/bash</br>
+> mv [A-Z]* /tmp/u
+
+- 16-clean_emacs
+> #!/bin/bash</br>
+> rm ./*~
+
+- 17-tree
+> #!/bin/bash</br>
+> mkdir -p ./welcome/to/school
