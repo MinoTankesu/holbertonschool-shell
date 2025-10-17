@@ -1,6 +1,6 @@
 # Ici, vous avez tous les crips du projet 0 (Shell, basics).
 
-![alt text]([https://ibb.co/Lh6f20XW])
+![alt text]([https://i.ibb.co/M5pL3gx4/Screenshot-20250309-001457.jpg])
 
 - 0-current_working_directory
 
