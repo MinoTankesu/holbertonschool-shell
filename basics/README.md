@@ -3,7 +3,7 @@
 - 0-current_working_directory
 
 > #!/bin/bash
-pwd
+> pwd
 
 - 1-listit
 > #!/bin/bash
