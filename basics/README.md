@@ -2,8 +2,8 @@
 
 - 0-current_working_directory
 
-> #!/bin/bash
-> pwd
+`#!/bin/bash
+pwd`
 
 - 1-listit
 > #!/bin/bash
