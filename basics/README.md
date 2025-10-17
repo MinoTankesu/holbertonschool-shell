@@ -4,10 +4,10 @@
 
 - 0-current_working_directory
 
-```
-- #!/bin/bash
-- pwd
-```
+
+> #!/bin/bash</br>
+> pwd
+
 - 1-listit
 > #!/bin/bash
 ls
