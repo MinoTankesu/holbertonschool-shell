@@ -1,12 +1,13 @@
 # Ici, vous avez tous les crips du projet 0 (Shell, basics).
 
-![alt text]([https://i.ibb.co/M5pL3gx4/Screenshot-20250309-001457.jpg])
+![Screenshot_20250309_001457](https://github.com/user-attachments/assets/fe9d9b12-a625-4df1-a0f1-3658e3de96be)
 
 - 0-current_working_directory
 
-> #!/bin/bash
-> pwd
-
+```
+#!/bin/bash
+pwd
+```
 - 1-listit
 > #!/bin/bash
 ls
