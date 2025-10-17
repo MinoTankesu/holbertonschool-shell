@@ -4,3 +4,15 @@
 
 > #!/bin/bash
 pwd
+
+- 1-listit
+> #!/bin/bash
+ls
+
+- 2-bring_me_home
+> #!/bin/bash
+cd
+
+- 3-listfiles
+> #!/bin/bash
+ls -l
