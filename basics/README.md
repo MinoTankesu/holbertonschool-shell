@@ -6,7 +6,7 @@
 pwd`
 
 - 1-listit
-> #!/bin/bash
+> #!/bin/bash\n
 ls
 
 - 2-bring_me_home
